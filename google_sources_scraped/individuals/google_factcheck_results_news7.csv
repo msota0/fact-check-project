@@ -1,0 +1,325 @@
+Row,Fact Check Number,Fact Check Text
+1,1,Snopes
+2,1,AFP Factual
+3,1,Lead Stories
+4,1,Franceinfo
+5,1,Snopes
+6,1,Lead Stories
+7,1,Logically Facts
+8,1,UOL Notícias
+9,1,Lead Stories
+10,1,BOL - UOL
+11,1,Lead Stories
+12,1,Factchequeado.com
+13,1,Check Your Fact
+14,1,Estadão
+15,1,Check Your Fact
+16,1,Demagog
+17,1,NewsMobile
+18,1,Greece Fact Check
+19,1,Maldita.es
+20,1,Check Your Fact
+21,1,Lead Stories
+22,1,Voz de América
+23,1,Snopes
+24,1,Bufale.net
+25,1,The Journal
+26,1,Tjekdet
+27,1,Fact Crescendo Assamese
+28,1,The Journal
+29,1,dpa-factchecking
+30,1,dpa-factchecking
+31,1,Telugu Post
+32,1,Lead Stories
+33,1,dpa-factchecking
+34,1,THIP Media
+35,1,Check Your Fact
+36,1,PolitiFact
+37,1,BOL - UOL
+38,1,Snopes
+39,1,Ténykérdés
+40,1,YouTurn
+41,1,DigitEye India
+42,1,Newschecker
+43,1,Estadão
+44,1,manoramaonline.com
+45,1,Navbharat Times - Indiatimes
+46,1,Bolivia Verifica
+47,1,dpa-factchecking
+48,1,USA Today
+49,1,Samayam Telugu
+50,1,Check Your Fact
+51,1,The Journal
+52,1,Newsweek
+53,1,FACTLY
+54,1,USA Today
+55,1,USA Today
+56,1,USA Today
+57,1,Observador
+58,1,Newsweek
+59,1,Observador
+60,1,팩트체크
+61,1,Observador
+62,1,Lead Stories
+63,1,Australian Associated Press
+64,1,Lead Stories
+65,1,TF1 Info
+66,1,Observador
+67,1,AFP Fact Check
+68,1,Samayam Tamil
+69,1,Snopes
+70,1,Observador
+71,1,Observador
+72,1,Lead Stories
+73,1,Observador
+74,1,USA Today
+75,1,Lead Stories
+76,1,Lead Stories
+77,1,Lead Stories
+78,1,Fact Crescendo Sri Lanka
+79,1,USA Today
+80,1,Samayam Telugu
+81,1,Samayam Telugu
+82,1,Lead Stories
+83,1,Logically Facts
+84,1,Snopes
+85,1,Snopes
+86,1,Telugu Post
+87,1,Vijaya Karnataka
+88,1,Demagog
+89,1,Quint Hindi
+90,1,Lead Stories
+91,1,Samayam Tamil
+92,1,Esakal
+93,1,Snopes
+94,1,Snopes
+95,1,Amar Ujala
+96,1,Lupa - UOL
+97,1,Logically Facts
+98,1,20 Minutes
+99,1,Logically Facts
+100,1,BOL - UOL
+101,1,Samayam Telugu
+102,1,Snopes
+103,1,FactCheck.org
+104,1,Samayam Malayalam
+105,1,Logically Facts
+106,1,Maharashtra Times - Indiatimes
+107,1,YouTurn
+108,1,BOL - UOL
+109,1,FACTLY
+110,1,NewsMobile
+111,1,Cek Fakta Tempo - Tempo.co
+112,1,فکت‌نامه
+113,1,Check Your Fact
+114,1,KHOU
+114,2,KREM
+114,3,KSDK
+115,1,Tempo.co
+116,1,Navbharat Times - Indiatimes
+117,1,Check Your Fact
+118,1,The Quint
+119,1,팩트체크
+120,1,AFP Fact Check
+1,1,Snopes
+2,1,AFP Factual
+3,1,Lead Stories
+4,1,Franceinfo
+5,1,Snopes
+6,1,Lead Stories
+7,1,Logically Facts
+8,1,UOL Notícias
+9,1,Lead Stories
+10,1,BOL - UOL
+11,1,Lead Stories
+12,1,Factchequeado.com
+13,1,Check Your Fact
+14,1,Estadão
+15,1,Check Your Fact
+16,1,Demagog
+17,1,NewsMobile
+18,1,Greece Fact Check
+19,1,Maldita.es
+20,1,Check Your Fact
+21,1,Lead Stories
+22,1,Voz de América
+23,1,Snopes
+24,1,Bufale.net
+25,1,The Journal
+26,1,Tjekdet
+27,1,Fact Crescendo Assamese
+28,1,The Journal
+29,1,dpa-factchecking
+30,1,dpa-factchecking
+31,1,Telugu Post
+32,1,Lead Stories
+33,1,dpa-factchecking
+34,1,THIP Media
+35,1,Check Your Fact
+36,1,PolitiFact
+37,1,BOL - UOL
+38,1,Snopes
+39,1,Ténykérdés
+40,1,YouTurn
+41,1,DigitEye India
+42,1,Newschecker
+43,1,Estadão
+44,1,manoramaonline.com
+45,1,Navbharat Times - Indiatimes
+46,1,Bolivia Verifica
+47,1,dpa-factchecking
+48,1,USA Today
+49,1,Samayam Telugu
+50,1,Check Your Fact
+51,1,The Journal
+52,1,Newsweek
+53,1,FACTLY
+54,1,USA Today
+55,1,USA Today
+56,1,USA Today
+57,1,Observador
+58,1,Newsweek
+59,1,Observador
+60,1,팩트체크
+61,1,Observador
+62,1,Lead Stories
+63,1,Australian Associated Press
+64,1,Lead Stories
+65,1,TF1 Info
+66,1,Observador
+67,1,AFP Fact Check
+68,1,Samayam Tamil
+69,1,Snopes
+70,1,Observador
+71,1,Observador
+72,1,Lead Stories
+73,1,Observador
+74,1,USA Today
+75,1,Lead Stories
+76,1,Lead Stories
+77,1,Lead Stories
+78,1,Fact Crescendo Sri Lanka
+79,1,USA Today
+80,1,Samayam Telugu
+81,1,Samayam Telugu
+82,1,Lead Stories
+83,1,Logically Facts
+84,1,Snopes
+85,1,Snopes
+86,1,Telugu Post
+87,1,Vijaya Karnataka
+88,1,Demagog
+89,1,Quint Hindi
+90,1,Lead Stories
+91,1,Samayam Tamil
+92,1,Esakal
+93,1,Snopes
+94,1,Snopes
+95,1,Amar Ujala
+96,1,Lupa - UOL
+97,1,Logically Facts
+98,1,20 Minutes
+99,1,Logically Facts
+100,1,BOL - UOL
+101,1,Samayam Telugu
+102,1,Snopes
+103,1,FactCheck.org
+104,1,Samayam Malayalam
+105,1,Logically Facts
+106,1,Maharashtra Times - Indiatimes
+107,1,YouTurn
+108,1,BOL - UOL
+109,1,FACTLY
+110,1,NewsMobile
+111,1,Cek Fakta Tempo - Tempo.co
+112,1,فکت‌نامه
+113,1,Check Your Fact
+114,1,KHOU
+114,2,KREM
+114,3,KSDK
+115,1,Tempo.co
+116,1,Navbharat Times - Indiatimes
+117,1,Check Your Fact
+118,1,The Quint
+119,1,팩트체크
+120,1,AFP Fact Check
+121,1,AFP Fact Check
+122,1,Newschecker
+123,1,PolitiFact
+124,1,Snopes
+125,1,PolitiFact
+126,1,Australian Associated Press
+127,1,Snopes
+128,1,USA Today
+129,1,PolitiFact
+130,1,Lead Stories
+131,1,فکت‌نامه
+132,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+133,1,Check Your Fact
+134,1,USA Today
+135,1,Check Your Fact
+136,1,Lead Stories
+137,1,Snopes
+138,1,PolitiFact
+139,1,Check Your Fact
+140,1,El Debate
+141,1,Lead Stories
+142,1,USA Today
+143,1,Rappler
+144,1,USA Today
+145,1,Lead Stories
+146,1,Lead Stories
+147,1,PolitiFact
+148,1,USA Today
+149,1,DigitEye India
+150,1,PolitiFact
+151,1,ColombiaCheck
+152,1,FactCheck.org
+153,1,NewsMobile
+154,1,Snopes
+155,1,Snopes.com
+156,1,BOL - UOL
+157,1,Snopes.com
+158,1,PolitiFact
+159,1,Demagog
+160,1,Snopes
+161,1,Snopes
+162,1,Snopes.com
+163,1,Snopes
+164,1,Aos Fatos
+165,1,Ellinika Hoaxes
+166,1,Snopes.com
+167,1,Lead Stories
+168,1,Logically Facts
+169,1,India Today
+170,1,Estadão
+171,1,PolitiFact
+172,1,Projeto Comprova
+173,1,Lead Stories
+174,1,Lead Stories
+175,1,Observador
+176,1,Full Fact
+177,1,La Silla Vacía
+178,1,USA Today
+179,1,Проверено.Медиа
+180,1,Вокс Україна
+181,1,La Silla Vacía
+182,1,Проверено.Медиа
+183,1,Demagog
+184,1,UOL Notícias
+185,1,Observador
+186,1,ColombiaCheck
+187,1,AFP Checamos
+188,1,Full Fact
+189,1,Observador
+190,1,Snopes
+191,1,Ellinika Hoaxes
+192,1,Aos Fatos
+193,1,Lead Stories
+194,1,Observador
+195,1,Full Fact
+196,1,Estadão
+197,1,Observador
+198,1,Aos Fatos
+199,1,AFP Factual
+200,1,Australian Associated Press

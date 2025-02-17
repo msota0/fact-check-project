@@ -1,0 +1,341 @@
+Row,Fact Check Number,Fact Check Text
+1,1,Factuel AFP
+2,1,AFP Fact Check
+3,1,Estadão
+4,1,Science Feedback
+5,1,Telugu Post
+6,1,Newtral
+7,1,WCNC
+8,1,فکت‌نامه
+9,1,THIP Media
+10,1,Lupa - UOL
+11,1,Вистиномер
+12,1,Aos Fatos
+13,1,Lupa - UOL
+14,1,Lupa - UOL
+15,1,Вистиномер
+16,1,VOA
+17,1,Logically Facts
+18,1,FactCheck.org
+19,1,UOL Notícias
+20,1,USA Today
+21,1,Science Feedback
+22,1,UOL Notícias
+23,1,美國之音粵語網
+24,1,Logically Facts
+25,1,Newtral
+26,1,USA Today
+27,1,CBS 19
+28,1,Univision
+29,1,Factchecker
+30,1,Rappler
+31,1,Aaj Tak
+32,1,The Quint
+33,1,AFP Fact Check
+34,1,AFP Factual
+35,1,BOOM Fact Check
+36,1,Snopes
+37,1,Agência Pública
+38,1,Lupa - UOL
+39,1,Boatos.org
+40,1,Fast Check 🔍
+41,1,Univision
+42,1,The Quint
+43,1,AFP Fact Check
+44,1,AFP Factual
+45,1,BOOM Fact Check
+46,1,Projeto Comprova
+47,1,Snopes.com
+48,1,UOL Notícias
+49,1,Snopes
+50,1,PolitiFact
+51,1,Fast Check 🔍
+52,1,Boatos.org
+53,1,Teyit
+54,1,Science Feedback
+55,1,MyGoPen
+56,1,Agência Pública
+57,1,Aos Fatos
+58,1,Lupa - UOL
+59,1,Boatos.org
+60,1,Lupa - UOL
+61,1,PolitiFact
+62,1,Science Feedback
+63,1,Snopes.com
+64,1,Check Your Fact
+65,1,Teyit
+66,1,Tjekdet
+67,1,Fast Check 🔍
+68,1,Lupa - UOL
+69,1,ColombiaCheck
+70,1,Istinomer
+71,1,Snopes
+72,1,UOL Notícias
+73,1,ColombiaCheck
+74,1,AFP Factual
+75,1,Boatos.org
+76,1,Радио Свобода
+77,1,Cek Fakta Tempo - Tempo.co
+78,1,Lupa - UOL
+79,1,FACTLY
+80,1,PolitiFact
+81,1,Verificat
+82,1,Lupa - UOL
+83,1,Rappler
+84,1,Ballotpedia
+85,1,MyGoPen
+86,1,annie lab
+87,1,Projeto Comprova
+88,1,PolitiFact
+89,1,Lupa - UOL
+90,1,Science Feedback
+91,1,AFP Factual
+92,1,Fast Check 🔍
+93,1,Lupa - UOL
+94,1,Snopes
+95,1,Newtral
+96,1,Lupa - UOL
+97,1,Snopes
+98,1,Istinomer
+99,1,ColombiaCheck
+100,1,Aos Fatos
+101,1,PolitiFact
+102,1,Snopes
+103,1,Cek Fakta Tempo - Tempo.co
+104,1,Lupa - UOL
+105,1,ColombiaCheck
+106,1,Boatos.org
+107,1,PolitiFact
+108,1,Tjekdet
+109,1,Chequeado
+110,1,Rappler
+111,1,Teyit
+112,1,PolitiFact
+113,1,PolitiFact
+114,1,VOA
+115,1,Boatos.org
+116,1,Agência Pública
+117,1,FactCheckNI
+118,1,Observador
+119,1,PolitiFact
+120,1,UOL Notícias
+121,1,Snopes.com
+122,1,Chequeado
+123,1,Istinomer
+124,1,ColombiaCheck
+125,1,Tjekdet
+126,1,Snopes
+127,1,Boom Live
+128,1,Teyit
+129,1,PolitiFact
+130,1,Newtral
+131,1,Tjekdet
+132,1,Boatos.org
+133,1,Factuel AFP
+134,1,Aos Fatos
+135,1,Snopes
+136,1,Istinomer
+137,1,Agência Pública
+138,1,Lupa - UOL
+139,1,Newtral
+140,1,Fast Check 🔍
+1,1,Factuel AFP
+2,1,AFP Fact Check
+3,1,Estadão
+4,1,Science Feedback
+5,1,Telugu Post
+6,1,Newtral
+7,1,WCNC
+8,1,فکت‌نامه
+9,1,THIP Media
+10,1,Lupa - UOL
+11,1,Вистиномер
+12,1,Aos Fatos
+13,1,Lupa - UOL
+14,1,Lupa - UOL
+15,1,Вистиномер
+16,1,VOA
+17,1,Logically Facts
+18,1,FactCheck.org
+19,1,UOL Notícias
+20,1,USA Today
+21,1,Science Feedback
+22,1,UOL Notícias
+23,1,美國之音粵語網
+24,1,Logically Facts
+25,1,Newtral
+26,1,USA Today
+27,1,CBS 19
+28,1,Univision
+29,1,Factchecker
+30,1,Rappler
+31,1,Aaj Tak
+32,1,The Quint
+33,1,AFP Fact Check
+34,1,AFP Factual
+35,1,BOOM Fact Check
+36,1,Snopes
+37,1,Agência Pública
+38,1,Lupa - UOL
+39,1,Boatos.org
+40,1,Fast Check 🔍
+41,1,Univision
+42,1,The Quint
+43,1,AFP Fact Check
+44,1,AFP Factual
+45,1,BOOM Fact Check
+46,1,Projeto Comprova
+47,1,Snopes.com
+48,1,UOL Notícias
+49,1,Snopes
+50,1,PolitiFact
+51,1,Fast Check 🔍
+52,1,Boatos.org
+53,1,Teyit
+54,1,Science Feedback
+55,1,MyGoPen
+56,1,Agência Pública
+57,1,Aos Fatos
+58,1,Lupa - UOL
+59,1,Boatos.org
+60,1,Lupa - UOL
+61,1,PolitiFact
+62,1,Science Feedback
+63,1,Snopes.com
+64,1,Check Your Fact
+65,1,Teyit
+66,1,Tjekdet
+67,1,Fast Check 🔍
+68,1,Lupa - UOL
+69,1,ColombiaCheck
+70,1,Istinomer
+71,1,Snopes
+72,1,UOL Notícias
+73,1,ColombiaCheck
+74,1,AFP Factual
+75,1,Boatos.org
+76,1,Радио Свобода
+77,1,Cek Fakta Tempo - Tempo.co
+78,1,Lupa - UOL
+79,1,FACTLY
+80,1,PolitiFact
+81,1,Verificat
+82,1,Lupa - UOL
+83,1,Rappler
+84,1,Ballotpedia
+85,1,MyGoPen
+86,1,annie lab
+87,1,Projeto Comprova
+88,1,PolitiFact
+89,1,Lupa - UOL
+90,1,Science Feedback
+91,1,AFP Factual
+92,1,Fast Check 🔍
+93,1,Lupa - UOL
+94,1,Snopes
+95,1,Newtral
+96,1,Lupa - UOL
+97,1,Snopes
+98,1,Istinomer
+99,1,ColombiaCheck
+100,1,Aos Fatos
+101,1,PolitiFact
+102,1,Snopes
+103,1,Cek Fakta Tempo - Tempo.co
+104,1,Lupa - UOL
+105,1,ColombiaCheck
+106,1,Boatos.org
+107,1,PolitiFact
+108,1,Tjekdet
+109,1,Chequeado
+110,1,Rappler
+111,1,Teyit
+112,1,PolitiFact
+113,1,PolitiFact
+114,1,VOA
+115,1,Boatos.org
+116,1,Agência Pública
+117,1,FactCheckNI
+118,1,Observador
+119,1,PolitiFact
+120,1,UOL Notícias
+121,1,Snopes.com
+122,1,Chequeado
+123,1,Istinomer
+124,1,ColombiaCheck
+125,1,Tjekdet
+126,1,Snopes
+127,1,Boom Live
+128,1,Teyit
+129,1,PolitiFact
+130,1,Newtral
+131,1,Tjekdet
+132,1,Boatos.org
+133,1,Factuel AFP
+134,1,Aos Fatos
+135,1,Snopes
+136,1,Istinomer
+137,1,Agência Pública
+138,1,Lupa - UOL
+139,1,Newtral
+140,1,Fast Check 🔍
+141,1,BOOM Fact Check
+142,1,Projeto Comprova
+143,1,Agência Pública
+144,1,VOA
+145,1,PolitiFact
+146,1,Lupa - UOL
+147,1,Fast Check 🔍
+148,1,Newtral
+149,1,VOA
+150,1,OKO.press
+151,1,VOA
+152,1,Lupa - UOL
+153,1,Science Feedback
+154,1,Snopes
+155,1,Lupa - UOL
+156,1,Full Fact
+157,1,Istinomer
+158,1,Snopes
+159,1,ColombiaCheck
+160,1,Tjekdet
+161,1,Tjekdet
+162,1,Lupa - UOL
+163,1,Lupa - UOL
+164,1,ColombiaCheck
+165,1,Projeto Comprova
+166,1,OKO.press
+167,1,Lupa - UOL
+168,1,Tjekdet
+169,1,Teyit
+170,1,PolitiFact
+171,1,Aos Fatos
+172,1,Istinomer
+173,1,The New York Times
+174,1,The New York Times
+175,1,Boatos.org
+176,1,Agência Pública
+177,1,Rappler
+178,1,Snopes
+179,1,Maldita.es
+180,1,Boatos.org
+181,1,Aos Fatos
+182,1,Cek Fakta Tempo - Tempo.co
+183,1,PolitiFact
+184,1,Lupa - UOL
+185,1,Maldita.es
+186,1,Lupa - UOL
+187,1,AP News
+188,1,Projeto Comprova
+189,1,Lupa - UOL
+190,1,Tjekdet
+191,1,Fast Check 🔍
+192,1,Lupa - UOL
+193,1,Snopes
+194,1,Lupa - UOL
+195,1,Istinomer
+196,1,ColombiaCheck
+197,1,Istinomer
+198,1,Tjekdet
+199,1,Teyit
+200,1,Lupa - UOL

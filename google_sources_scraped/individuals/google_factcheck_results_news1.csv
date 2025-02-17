@@ -1,0 +1,439 @@
+Row,Fact Check Number,Fact Check Text
+1,1,مسبار
+2,1,مسبار
+3,1,DigitEye India
+4,1,NewsMobile
+5,1,Newschecker
+6,1,Newschecker
+7,1,Animal Politico
+8,1,Aos Fatos
+9,1,UOL Notícias
+10,1,UOL Notícias
+11,1,PolitiFact
+12,1,FactCheckHub
+13,1,Lead Stories
+14,1,Full Fact
+15,1,FactCheck.org
+16,1,dpa-factchecking
+17,1,AFP Factual
+18,1,مسبار
+19,1,VOA
+20,1,KGW
+20,2,KHOU
+20,3,KSDK
+21,1,PolitiFact
+22,1,Lokmat
+23,1,Newtral
+24,1,Aos Fatos
+25,1,Rappler
+26,1,Ellinika Hoaxes
+27,1,FactCheckHub
+28,1,Lead Stories
+29,1,FactCheckHub
+30,1,مسبار
+31,1,Newtral
+32,1,UOL Notícias
+33,1,Newschecker
+34,1,Check Your Fact
+35,1,Check Your Fact
+36,1,Esakal
+37,1,10TV
+37,2,KSDK
+37,3,KTVB
+38,1,Snopes
+39,1,FactCheckHub
+40,1,Alt News
+41,1,Estadão
+42,1,Projeto Comprova
+43,1,Animal Politico
+44,1,Вистиномер
+45,1,Faktograf
+46,1,Animal Politico
+47,1,Snopes
+48,1,Alt News
+49,1,Snopes
+50,1,vishvasnews.com
+51,1,Lead Stories
+52,1,Snopes
+53,1,Check Your Fact
+54,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+55,1,AFP Factual
+56,1,Snopes
+57,1,Samayam Malayalam
+58,1,Full Fact
+59,1,Lead Stories
+60,1,فتبينوا
+61,1,Estadão
+62,1,FactCheckHub
+63,1,Snopes
+64,1,The France 24 Observers
+65,1,USA Today
+66,1,Check Your Fact
+67,1,Projeto Comprova
+68,1,AajTak Bangla
+69,1,Check Your Fact
+70,1,FactCheckHub
+71,1,AFP Factual
+72,1,EFE Verifica
+73,1,UOL Notícias
+74,1,AFP Checamos
+75,1,Estadão
+76,1,USA Today
+77,1,Samayam Tamil
+78,1,مسبار
+79,1,BOL - UOL
+80,1,Newtral
+1,1,مسبار
+2,1,مسبار
+3,1,DigitEye India
+4,1,NewsMobile
+5,1,Newschecker
+6,1,Newschecker
+7,1,Animal Politico
+8,1,Aos Fatos
+9,1,UOL Notícias
+10,1,UOL Notícias
+11,1,PolitiFact
+12,1,FactCheckHub
+13,1,Lead Stories
+14,1,Full Fact
+15,1,FactCheck.org
+16,1,dpa-factchecking
+17,1,AFP Factual
+18,1,مسبار
+19,1,VOA
+20,1,KGW
+20,2,KHOU
+20,3,KSDK
+21,1,PolitiFact
+22,1,Lokmat
+23,1,Newtral
+24,1,Aos Fatos
+25,1,Rappler
+26,1,Ellinika Hoaxes
+27,1,FactCheckHub
+28,1,Lead Stories
+29,1,FactCheckHub
+30,1,مسبار
+31,1,Newtral
+32,1,UOL Notícias
+33,1,Newschecker
+34,1,Check Your Fact
+35,1,Check Your Fact
+36,1,Esakal
+37,1,10TV
+37,2,KSDK
+37,3,KTVB
+38,1,Snopes
+39,1,FactCheckHub
+40,1,Alt News
+41,1,Estadão
+42,1,Projeto Comprova
+43,1,Animal Politico
+44,1,Вистиномер
+45,1,Faktograf
+46,1,Animal Politico
+47,1,Snopes
+48,1,Alt News
+49,1,Snopes
+50,1,vishvasnews.com
+51,1,Lead Stories
+52,1,Snopes
+53,1,Check Your Fact
+54,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+55,1,AFP Factual
+56,1,Snopes
+57,1,Samayam Malayalam
+58,1,Full Fact
+59,1,Lead Stories
+60,1,فتبينوا
+61,1,Estadão
+62,1,FactCheckHub
+63,1,Snopes
+64,1,The France 24 Observers
+65,1,USA Today
+66,1,Check Your Fact
+67,1,Projeto Comprova
+68,1,AajTak Bangla
+69,1,Check Your Fact
+70,1,FactCheckHub
+71,1,AFP Factual
+72,1,EFE Verifica
+73,1,UOL Notícias
+74,1,AFP Checamos
+75,1,Estadão
+76,1,USA Today
+77,1,Samayam Tamil
+78,1,مسبار
+79,1,BOL - UOL
+80,1,Newtral
+81,1,Tempo.co
+82,1,Newsweek
+83,1,AFP Fact Check
+84,1,misbar.com
+85,1,AFP Checamos
+86,1,Snopes
+87,1,PA Media
+88,1,Boom Live
+89,1,Animal Politico
+90,1,Newschecker
+91,1,Lighthouse Journalism
+92,1,Aos Fatos
+93,1,dpa-factchecking
+94,1,AFP Checamos
+95,1,Voz de América
+96,1,Estadão
+97,1,Maldita.es
+98,1,Snopes
+99,1,Full Fact
+100,1,TF1 Info
+101,1,Snopes
+102,1,Dfrac
+103,1,Newsweek
+104,1,tempo.co
+105,1,AFP Checamos
+106,1,BOOM Fact Check
+107,1,NewsMeter
+108,1,AFP Checamos
+109,1,manoramaonline.com
+110,1,Aos Fatos
+111,1,dpa-factchecking
+112,1,Snopes
+113,1,Newschecker
+114,1,Newtral
+115,1,Lead Stories
+116,1,TF1 Info
+117,1,EFE Verifica
+118,1,Maldita.es
+119,1,UOL Notícias
+120,1,VERIFYThis.com
+121,1,Estadão
+122,1,Full Fact
+123,1,Aos Fatos
+124,1,ColombiaCheck
+125,1,Full Fact
+126,1,Full Fact
+127,1,Lupa - UOL
+128,1,Maldita.es
+129,1,Logically Facts
+130,1,Fact Crescendo Cambodia
+131,1,Samayam Telugu
+132,1,KTVB
+132,2,WFAA
+132,3,WKYC
+133,1,Animal Politico
+134,1,Snopes
+135,1,Aos Fatos
+136,1,FactCheckHub
+137,1,Lupa - UOL
+138,1,Full Fact
+139,1,Full Fact
+140,1,Full Fact
+1,1,مسبار
+2,1,مسبار
+3,1,DigitEye India
+4,1,NewsMobile
+5,1,Newschecker
+6,1,Newschecker
+7,1,Animal Politico
+8,1,Aos Fatos
+9,1,UOL Notícias
+10,1,UOL Notícias
+11,1,PolitiFact
+12,1,FactCheckHub
+13,1,Lead Stories
+14,1,Full Fact
+15,1,FactCheck.org
+16,1,dpa-factchecking
+17,1,AFP Factual
+18,1,مسبار
+19,1,VOA
+20,1,KGW
+20,2,KHOU
+20,3,KSDK
+21,1,PolitiFact
+22,1,Lokmat
+23,1,Newtral
+24,1,Aos Fatos
+25,1,Rappler
+26,1,Ellinika Hoaxes
+27,1,FactCheckHub
+28,1,Lead Stories
+29,1,FactCheckHub
+30,1,مسبار
+31,1,Newtral
+32,1,UOL Notícias
+33,1,Newschecker
+34,1,Check Your Fact
+35,1,Check Your Fact
+36,1,Esakal
+37,1,10TV
+37,2,KSDK
+37,3,KTVB
+38,1,Snopes
+39,1,FactCheckHub
+40,1,Alt News
+41,1,Estadão
+42,1,Projeto Comprova
+43,1,Animal Politico
+44,1,Вистиномер
+45,1,Faktograf
+46,1,Animal Politico
+47,1,Snopes
+48,1,Alt News
+49,1,Snopes
+50,1,vishvasnews.com
+51,1,Lead Stories
+52,1,Snopes
+53,1,Check Your Fact
+54,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+55,1,AFP Factual
+56,1,Snopes
+57,1,Samayam Malayalam
+58,1,Full Fact
+59,1,Lead Stories
+60,1,فتبينوا
+61,1,Estadão
+62,1,FactCheckHub
+63,1,Snopes
+64,1,The France 24 Observers
+65,1,USA Today
+66,1,Check Your Fact
+67,1,Projeto Comprova
+68,1,AajTak Bangla
+69,1,Check Your Fact
+70,1,FactCheckHub
+71,1,AFP Factual
+72,1,EFE Verifica
+73,1,UOL Notícias
+74,1,AFP Checamos
+75,1,Estadão
+76,1,USA Today
+77,1,Samayam Tamil
+78,1,مسبار
+79,1,BOL - UOL
+80,1,Newtral
+81,1,Tempo.co
+82,1,Newsweek
+83,1,AFP Fact Check
+84,1,misbar.com
+85,1,AFP Checamos
+86,1,Snopes
+87,1,PA Media
+88,1,Boom Live
+89,1,Animal Politico
+90,1,Newschecker
+91,1,Lighthouse Journalism
+92,1,Aos Fatos
+93,1,dpa-factchecking
+94,1,AFP Checamos
+95,1,Voz de América
+96,1,Estadão
+97,1,Maldita.es
+98,1,Snopes
+99,1,Full Fact
+100,1,TF1 Info
+101,1,Snopes
+102,1,Dfrac
+103,1,Newsweek
+104,1,tempo.co
+105,1,AFP Checamos
+106,1,BOOM Fact Check
+107,1,NewsMeter
+108,1,AFP Checamos
+109,1,manoramaonline.com
+110,1,Aos Fatos
+111,1,dpa-factchecking
+112,1,Snopes
+113,1,Newschecker
+114,1,Newtral
+115,1,Lead Stories
+116,1,TF1 Info
+117,1,EFE Verifica
+118,1,Maldita.es
+119,1,UOL Notícias
+120,1,VERIFYThis.com
+121,1,Estadão
+122,1,Full Fact
+123,1,Aos Fatos
+124,1,ColombiaCheck
+125,1,Full Fact
+126,1,Full Fact
+127,1,Lupa - UOL
+128,1,Maldita.es
+129,1,Logically Facts
+130,1,Fact Crescendo Cambodia
+131,1,Samayam Telugu
+132,1,KTVB
+132,2,WFAA
+132,3,WKYC
+133,1,Animal Politico
+134,1,Snopes
+135,1,Aos Fatos
+136,1,FactCheckHub
+137,1,Lupa - UOL
+138,1,Full Fact
+139,1,Full Fact
+140,1,Full Fact
+141,1,KGW
+141,2,KHOU
+141,3,KREM
+142,1,Estadão
+143,1,Estadão
+144,1,Full Fact
+145,1,Samayam Telugu
+146,1,ColombiaCheck
+147,1,Full Fact
+148,1,Lupa - UOL
+149,1,Maldita.es
+150,1,Projeto Comprova
+151,1,ColombiaCheck
+152,1,Indiatoday Malayalam
+153,1,Aos Fatos
+154,1,Lead Stories
+155,1,PolitiFact
+156,1,Check Your Fact
+157,1,Full Fact
+158,1,Snopes
+159,1,Lupa - UOL
+160,1,India Today
+161,1,Newtral
+162,1,Verificat
+163,1,The France 24 Observers
+164,1,India Today
+165,1,Maldita.es
+166,1,Aos Fatos
+167,1,misbar.com
+168,1,全民查假會社
+169,1,AFP Fact Check
+170,1,FactCheck.org
+171,1,USA Today
+172,1,Efecto Cocuyo
+173,1,Newtral
+174,1,Aos Fatos
+175,1,Logically Facts
+176,1,Lead Stories
+177,1,مسبار
+178,1,Snopes
+179,1,Aos Fatos
+180,1,فکت‌نامه
+181,1,Lead Stories
+182,1,Snopes
+183,1,Vijaya Karnataka
+184,1,misbar.com
+185,1,Check Your Fact
+186,1,全民查假會社
+187,1,Maldita.es
+188,1,StopFake.org
+189,1,StopFake.org
+190,1,StopFake
+191,1,StopFake
+192,1,EFE Verifica
+193,1,StopFake
+194,1,StopFake
+195,1,OKO.press
+196,1,Snopes
+197,1,OKO.press
+198,1,OKO.press
+199,1,Maldita.es
+200,1,StopFake

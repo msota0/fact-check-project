@@ -1,0 +1,361 @@
+Row,Fact Check Number,Fact Check Text
+1,1,Teyit
+2,1,FactCheckHub
+3,1,Gigafact
+4,1,Demagog
+5,1,ColombiaCheck
+6,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+7,1,المشاهد نت
+8,1,PolitiFact
+9,1,Du-Check
+10,1,Проверено.Медиа
+11,1,Snopes.com
+12,1,BOOM Bangladesh
+13,1,KGW
+14,1,Boatos.org
+15,1,TF1 Info
+16,1,Franceinfo
+17,1,PolitiFact
+18,1,USA Today
+19,1,FactCheck.org
+20,1,AP News
+21,1,TF1 Info
+22,1,Franceinfo
+23,1,Snopes
+24,1,PolitiFact
+25,1,USA Today
+26,1,팩트체크
+27,1,Semakan Fakta
+28,1,Doğruluk Payı
+29,1,AFP Fact Check
+30,1,FactCheck.org
+31,1,VERIFYThis.com
+32,1,AP News
+33,1,Indiatoday Malayalam
+34,1,Ellinika Hoaxes
+35,1,misbar.com
+36,1,Snopes
+37,1,مسبار
+38,1,Full Fact
+39,1,FACTLY
+40,1,misbar.com
+41,1,Ellinika Hoaxes
+42,1,misbar.com
+43,1,فتبينوا
+44,1,Snopes
+45,1,גלובס
+46,1,مسبار
+47,1,Full Fact
+48,1,YouTurn
+49,1,Snopes
+50,1,مسبار
+51,1,misbar.com
+52,1,Kallxo.com
+53,1,misbar.com
+54,1,Teyit
+55,1,مسبار
+56,1,Rappler
+57,1,Lead Stories
+58,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+59,1,FACTLY
+60,1,EFE Verifica
+61,1,Snopes.com
+62,1,Snopes
+63,1,Snopes
+64,1,EFE Verifica
+65,1,OKO.press
+66,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+67,1,Rappler
+68,1,مسبار
+69,1,Verificat
+70,1,مسبار
+71,1,FACTLY
+72,1,Tempo.co
+73,1,Teyit
+74,1,Lead Stories
+75,1,مسبار
+76,1,Kallxo.com
+77,1,Teyit
+78,1,Fact Crescendo Cambodia
+79,1,AFP Fact Check
+80,1,مسبار
+81,1,Verificat
+82,1,مسبار
+83,1,Rappler
+84,1,مسبار
+85,1,VOA
+86,1,Teyit
+87,1,Kallxo.com
+88,1,Lead Stories
+89,1,مسبار
+90,1,YouTurn
+91,1,Snopes.com
+92,1,VOA
+93,1,AFP Fact Check
+94,1,مسبار
+95,1,misbar.com
+96,1,Snopes
+97,1,misbar.com
+98,1,Maldita.es
+99,1,Lead Stories
+100,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+101,1,EFE Verifica
+102,1,Newtral
+103,1,مسبار
+104,1,Kallxo.com
+105,1,Newschecker
+106,1,Verificat
+107,1,Doğruluk Payı
+108,1,misbar.com
+109,1,misbar.com
+110,1,Lead Stories
+111,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+112,1,AFP Fact Check
+113,1,FACTLY
+114,1,美国之音
+115,1,PolitiFact
+116,1,مسبار
+117,1,Snopes
+118,1,Fact Crescendo Cambodia
+119,1,OKO.press
+120,1,مسبار
+121,1,Faktograf
+122,1,FACTLY
+123,1,VOA
+124,1,مسبار
+125,1,مسبار
+126,1,مسبار
+127,1,Newschecker
+128,1,Nieuwscheckers
+129,1,Fact Crescendo Cambodia
+130,1,FACTLY
+131,1,مسبار
+132,1,مسبار
+133,1,Snopes.com
+134,1,مسبار
+135,1,Tempo.co
+136,1,Verificat
+137,1,Teyit
+138,1,YouTurn
+139,1,Demagog
+140,1,dpa-factchecking
+141,1,BOOM
+142,1,Snopes
+143,1,مسبار
+144,1,Demagog
+145,1,OKO.press
+146,1,FactCheck.org
+147,1,AFP Fact Check
+148,1,Lead Stories
+149,1,Kallxo.com
+150,1,مسبار
+151,1,Teyit
+152,1,AP News
+153,1,Lupa - UOL
+154,1,مسبار
+155,1,FACTLY
+156,1,Rappler
+157,1,VOA
+158,1,مسبار
+159,1,Teyit
+160,1,EFE Verifica
+1,1,Teyit
+2,1,FactCheckHub
+3,1,Gigafact
+4,1,Demagog
+5,1,ColombiaCheck
+6,1,विश्वास न्यूज़ फैक्ट चेक हिंदी
+7,1,المشاهد نت
+8,1,PolitiFact
+9,1,Du-Check
+10,1,Проверено.Медиа
+11,1,Snopes.com
+12,1,BOOM Bangladesh
+13,1,KGW
+14,1,Boatos.org
+15,1,TF1 Info
+16,1,Franceinfo
+17,1,PolitiFact
+18,1,USA Today
+19,1,FactCheck.org
+20,1,AP News
+21,1,TF1 Info
+22,1,Franceinfo
+23,1,Snopes
+24,1,PolitiFact
+25,1,USA Today
+26,1,팩트체크
+27,1,Semakan Fakta
+28,1,Doğruluk Payı
+29,1,AFP Fact Check
+30,1,FactCheck.org
+31,1,VERIFYThis.com
+32,1,AP News
+33,1,Indiatoday Malayalam
+34,1,Ellinika Hoaxes
+35,1,misbar.com
+36,1,Snopes
+37,1,مسبار
+38,1,Full Fact
+39,1,FACTLY
+40,1,misbar.com
+41,1,Ellinika Hoaxes
+42,1,misbar.com
+43,1,فتبينوا
+44,1,Snopes
+45,1,גלובס
+46,1,مسبار
+47,1,Full Fact
+48,1,YouTurn
+49,1,Snopes
+50,1,مسبار
+51,1,misbar.com
+52,1,Kallxo.com
+53,1,misbar.com
+54,1,Teyit
+55,1,مسبار
+56,1,Rappler
+57,1,Lead Stories
+58,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+59,1,FACTLY
+60,1,EFE Verifica
+61,1,Snopes.com
+62,1,Snopes
+63,1,Snopes
+64,1,EFE Verifica
+65,1,OKO.press
+66,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+67,1,Rappler
+68,1,مسبار
+69,1,Verificat
+70,1,مسبار
+71,1,FACTLY
+72,1,Tempo.co
+73,1,Teyit
+74,1,Lead Stories
+75,1,مسبار
+76,1,Kallxo.com
+77,1,Teyit
+78,1,Fact Crescendo Cambodia
+79,1,AFP Fact Check
+80,1,مسبار
+81,1,Verificat
+82,1,مسبار
+83,1,Rappler
+84,1,مسبار
+85,1,VOA
+86,1,Teyit
+87,1,Kallxo.com
+88,1,Lead Stories
+89,1,مسبار
+90,1,YouTurn
+91,1,Snopes.com
+92,1,VOA
+93,1,AFP Fact Check
+94,1,مسبار
+95,1,misbar.com
+96,1,Snopes
+97,1,misbar.com
+98,1,Maldita.es
+99,1,Lead Stories
+100,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+101,1,EFE Verifica
+102,1,Newtral
+103,1,مسبار
+104,1,Kallxo.com
+105,1,Newschecker
+106,1,Verificat
+107,1,Doğruluk Payı
+108,1,misbar.com
+109,1,misbar.com
+110,1,Lead Stories
+111,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+112,1,AFP Fact Check
+113,1,FACTLY
+114,1,美国之音
+115,1,PolitiFact
+116,1,مسبار
+117,1,Snopes
+118,1,Fact Crescendo Cambodia
+119,1,OKO.press
+120,1,مسبار
+121,1,Faktograf
+122,1,FACTLY
+123,1,VOA
+124,1,مسبار
+125,1,مسبار
+126,1,مسبار
+127,1,Newschecker
+128,1,Nieuwscheckers
+129,1,Fact Crescendo Cambodia
+130,1,FACTLY
+131,1,مسبار
+132,1,مسبار
+133,1,Snopes.com
+134,1,مسبار
+135,1,Tempo.co
+136,1,Verificat
+137,1,Teyit
+138,1,YouTurn
+139,1,Demagog
+140,1,dpa-factchecking
+141,1,BOOM
+142,1,Snopes
+143,1,مسبار
+144,1,Demagog
+145,1,OKO.press
+146,1,FactCheck.org
+147,1,AFP Fact Check
+148,1,Lead Stories
+149,1,Kallxo.com
+150,1,مسبار
+151,1,Teyit
+152,1,AP News
+153,1,Lupa - UOL
+154,1,مسبار
+155,1,FACTLY
+156,1,Rappler
+157,1,VOA
+158,1,مسبار
+159,1,Teyit
+160,1,EFE Verifica
+161,1,Snopes
+162,1,Newschecker
+163,1,Wypowiedzi - weryfikujemy słowa polityków i osób publicznych
+164,1,Lead Stories
+165,1,FACTLY
+166,1,VOA
+167,1,مسبار
+168,1,مسبار
+169,1,Doğruluk Payı
+170,1,OKO.press
+171,1,EFE Verifica
+172,1,AFP Fact Check
+173,1,مسبار
+174,1,Fact Crescendo Cambodia
+175,1,FACTLY
+176,1,Doğruluk Payı
+177,1,مسبار
+178,1,Teyit
+179,1,مسبار
+180,1,Kallxo.com
+181,1,VOA
+182,1,Rappler
+183,1,Snopes
+184,1,Maldita.es
+185,1,PolitiFact
+186,1,Snopes
+187,1,مسبار
+188,1,Le Monde
+189,1,مسبار
+190,1,Snopes
+191,1,AFP Fact Check
+192,1,Lead Stories
+193,1,Snopes.com
+194,1,VOA
+195,1,مسبار
+196,1,AFP Fact Check
+197,1,Aaj Tak
+198,1,Fact Crescendo Cambodia
+199,1,Snopes
+200,1,20 Minutes

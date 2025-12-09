@@ -127,17 +127,51 @@ MAX_DEPTH = 2
 MAX_LINKS = 500
 
 # Websites to start crawling from
-websites = [
-    "https://pesacheck.org/tagged/burkina-faso",
-    "https://pesacheck.org/tagged/burundi",
-    "https://pesacheck.org/tagged/cameroon",
-    'https://stopintox.cm/',
-    'https://factuel.afp.com/AFP-Cote-dIvoire',
-    'https://pesacheck.org/',
-    'https://congocheck.net/home/',
-    'https://akhbarmeter.org/',
-    'https://www.saheeh.news/',
-    'https://tafnied.com/'
+# websites = [
+#     "https://pesacheck.org/tagged/burkina-faso",
+#     "https://pesacheck.org/tagged/burundi",
+#     "https://pesacheck.org/tagged/cameroon",
+#     'https://stopintox.cm/',
+#     'https://factuel.afp.com/AFP-Cote-dIvoire',
+#     'https://pesacheck.org/',
+#     'https://congocheck.net/home/',
+#     'https://akhbarmeter.org/',
+#     'https://www.saheeh.news/',
+#     'https://tafnied.com/'
+# ]
+
+websites =  [
+    "https://chequeado.com/",
+    "https://www.altnews.in/",
+    "https://www.stopfake.org/en/main/",
+    "https://newschecker.in/",
+    "https://www.verificat.cat/",
+    "https://www.snopes.com/",
+    "https://cambodia.factcrescendo.com/",
+    "https://www.aosfatos.org/",
+    "https://maldita.es/",
+    "https://fullfact.org/",
+    "https://faktograf.hr/",
+    "https://nieuwscheckers.nl/",
+    "https://factly.in/",
+    "https://factcheckhub.com/",
+    "https://boliviaverifica.bo/",
+    "https://factreview.gr/",
+    "https://verifica.efe.com/",
+    "https://www.politifact.com/",
+    "https://srilanka.factcrescendo.com/",
+    "https://www.boombd.com/",
+    "https://leadstories.com/",
+    "https://www.factcheck.org/",
+    "https://www.logicallyfacts.com/en",
+    "https://www.istinomer.rs/",
+    "https://www.mygopen.com/",
+    "https://teyit.org/",
+    "https://factcheck.afp.com/AFP-Greece",
+    "https://gigafact.org/",
+    "https://factcheck.bg/",
+    "https://demagog.org.pl/en/",
+    "https://factcheckni.org/"
 ]
 
 EXCLUDE_KEYWORDS = [
